@@ -1,4 +1,4 @@
-# TensorFlow-Developer-Certificate-Learning-materials 
+# TensorFlow-Developer-Certificate
 
 
 ## Articles 
