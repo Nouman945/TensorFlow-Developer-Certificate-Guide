@@ -7,3 +7,6 @@
 
 ## Basic DataSets to Work on
 - Fashion Mnist Data
+
+## Courses
+- DeepLearning.AI [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
