@@ -15,3 +15,4 @@ This Articles, pdf's, books and courses are all that i am following for my prepr
 ## Courses
 - DeepLearning.AI [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - Frontendmasters [Practical Machine Learning](https://frontendmasters.com/courses/practical-machine-learning)
+- Tensorflow developer certificate machine learning zero to mastery. [Udemy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery)
