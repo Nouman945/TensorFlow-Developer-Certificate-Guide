@@ -10,3 +10,4 @@
 
 ## Courses
 - DeepLearning.AI [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- Frontendmasters [Practical Machine Learning](https://frontendmasters.com/courses/practical-machine-learning)
