@@ -11,6 +11,7 @@ This Articles, pdf's, books and courses are all that i am following for my prepr
 
 ## Basic DataSets to Work on
 - Fashion Mnist Data
+- Hand Written Digit Recognition
 
 ## Courses
 - DeepLearning.AI [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
