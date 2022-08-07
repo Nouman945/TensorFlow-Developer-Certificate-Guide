@@ -13,6 +13,11 @@ This Articles, pdf's, books and courses are all that i am following for my prepr
 - Fashion Mnist Data
 - Hand Written Digit Recognition
 
+## Statistic Concepts need to Cover
+
+- [Uniform Probability](https://www.statology.org/uniform-distribution-real-life-examples/) Distributions
+- [Normal Probability](https://www.statology.org/example-of-normal-distribution/) Distributions
+
 ## Courses
 - DeepLearning.AI [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - Frontendmasters [Practical Machine Learning](https://frontendmasters.com/courses/practical-machine-learning)
