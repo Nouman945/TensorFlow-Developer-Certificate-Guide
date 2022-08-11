@@ -13,7 +13,7 @@ This Articles, pdf's, books and courses are all that i am following for my prepr
 - Fashion Mnist Data
 - Hand Written Digit Recognition
 
-## Statistics Concepts need to Cover
+## Statistics Concepts 
 
 - [Uniform Probability](https://www.statology.org/uniform-distribution-real-life-examples/) Distributions
 - [Normal Probability](https://www.statology.org/example-of-normal-distribution/) Distributions
